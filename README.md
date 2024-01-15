@@ -1,2 +1,3 @@
-# wa-brewers-guild
-Data science project for the WA Brewers Guild.
+# Washington Brewers Guild
+Seattle University, 2024
+Yen-Ting Chen, Hanisha Karri, McKenzie Maidl, Justus Ngunjiri
