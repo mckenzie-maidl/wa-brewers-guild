@@ -19,8 +19,16 @@ for br, link in zip(breweries, links):
 
         from selenium.webdriver.common.by import By
         elem = driver.find_element(By.XPATH, '//span[@class = "num"]')
+        statsElem = driver.find_element(By.XPATH, '//div[@class = "stats"]')
+        statsText = statsElem.text.split('\n')
+        totalVisits = int(''.join(statsText[1].split(',')))
+        uniqueVisits = int(''.join(statsText[3].split(',')))
+        monthlyVisits = int(''.join(statsText[5].split(',')))
+        stats = {'total': totalVisits, 'unique': uniqueVisits, 'monthly': monthlyVisits}
         rating = float(elem.text[1:-1])
         ratings[br] = rating
+        stats['rating'] = rating
+        print(stats)
     except:
         pass
 
