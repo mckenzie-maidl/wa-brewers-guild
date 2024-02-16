@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20100108</pubdate>
+                <title>City Centroids of Washington State</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>CGIS</publish>
+                </pubinfo>
+                <onlink>https://data.wsdot.wa.gov/arcgis/rest/services/Shared/PoliAdminBndryData/MapServer/0</onlink>
+                <onlink>https://data.wsdot.wa.gov/geospatial/DOT_Cartog/CityPoints.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Point file of all incorporated cities in the state of Washington. Points were taken from the main polygon for each incorporated entity shown in the City Limits of Washington State data set.</abstract>
+            <purpose>This data set is used as a reference layer for geographic information systems at the Washington State Department of Transportation (WSDOT).</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20091130</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>ground condition</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-124.460039</westbc>
+                <eastbc>-116.876041</eastbc>
+                <northbc>49.015044</northbc>
+                <southbc>45.532992</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Cities</themekey>
+                <themekey>Towns</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>United States</placekey>
+                <placekey>Washington</placekey>
+                <placekey>WA</placekey>
+                <placekey>Pacific Northwest</placekey>
+                <placekey>USA</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>Data provided here is used by the Washington State
+Department of Transportation's transportation partners, government entities,
+schools, private businesses, and the general public. The Washington State
+Department of Transportation shall not be liable for any activity involving
+these data, including, but not limited to, lost profits or savings or any other
+economic or consequential damages. Nor does the Department warrant the fitness
+of the data for use for a particular purpose, or the installation of the data,
+its use, or the results obtained.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>GIS/Cartography Office, Washington State Department of Transportation</cntorg>
+                    <cntper>Derek Drake</cntper>
+                </cntorgp>
+                <cntpos>GIS Analyst/Cartographer</cntpos>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>818 79th Ave SE, Suite B</address>
+                    <city>Tumwater</city>
+                    <state>WA</state>
+                    <postal>98501</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>360-596-8923</cntvoice>
+                <cntfax>360-596-8905</cntfax>
+                <cntemail>draked@wsdot.wa.gov</cntemail>
+                <hours>7:00 am - 5:30 pm T - F</hours>
+                <cntinst>email, or call and leave a message</cntinst>
+            </cntinfo>
+        </ptcontac>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.3.1.4959</native>
+        <crossref>
+            <citeinfo>
+                <pubdate>20100108</pubdate>
+                <title>City Limits of Washington State, November 2009</title>
+            </citeinfo>
+        </crossref>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>City names are spelled according to the Washington State Office of Financial Management standards.</attraccr>
+        </attracc>
+        <logic>none</logic>
+        <complete>The data set contains every incorporated city in Washington.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Positional accuracy has not been determined.</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <typesrc>None</typesrc>
+                <srccontr>The polygons providing point and attribution information.</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>Point symbols were created from the latest city limits update. There is only one point per city that is placed at the city center.</procdesc>
+                <procdate>20091130</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <indspref>Cities of Washington State</indspref>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>281</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>PoliticalAdminBoundaries.DBO.CitiesPoint</enttypl>
+                <enttypd>Incorporated cities in Washington state.</enttypd>
+                <enttypds>Cartography Section, Washington State Department of Transportation</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>MajorCity</attrlabl>
+                <attrdef>A major city is defined as; a County Seat, largest City in the County, large population, or if the city is a major juction. Up to 5 per county.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>CountyFIPS</attrlabl>
+                <attrdef>Identifying code of all Washington counties</attrdef>
+                <attrdefs>USGS</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>CityFIPS</attrlabl>
+                <attrdef>Identifying codes of all Washington cities</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LastUpdate</attrlabl>
+                <attrdef>This is the ending date of the quarter the city boundary was last modified.</attrdef>
+                <attrdefs>Washington State Office of Financial Management</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>CountySeat</attrlabl>
+                <attrdef>Whether or not the city is the county seat.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>Name of the incorporated entity.</attrdef>
+                <attrdefs>Office of Finance and Management</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>GNIS</attrlabl>
+                <attrdef>Geographic Names Information System</attrdef>
+                <attrdefs>Federal Code</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>Points depict Washington State cities and are attributed with the cities' names, FIPS codes, and GNIS codes.</eaover>
+        </overview>
+    </eainfo>
+    <metainfo>
+        <metd>20170324</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>WSDOT GIS/Cartography Office</cntorg>
+                    <cntper>Derek Drake</cntper>
+                </cntorgp>
+                <cntpos>GIS Analyst</cntpos>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>818 79th Ave SE, Suite B</address>
+                    <city>Olympia</city>
+                    <state>WA</state>
+                    <postal>98501</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>360-596-8923</cntvoice>
+                <cntfax>360-596-8905</cntfax>
+                <cntemail>draked@wsdot.wa.gov</cntemail>
+                <hours>7:00 - 5:30 T - F</hours>
+                <cntinst>call or email</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
