@@ -4,7 +4,7 @@ brewery,satellite_location,flagship,brewery_type,address,city,zipcode,county,lat
 20 Corners Brewing Company,,1,brewpub,14148 NE 190th St - Suite A,Woodinville,98072,King,47.76506654,-122.1510149,2016,0,1,1,0,https://untappd.com/20CornersBrewingCompany
 210 Brewing Company,,1,taproom,3438 Stoluckquamish Lane,Arlington,98223,Snohomish,48.2135319,-122.1848541,2015,1,1,0,0,https://untappd.com/210Brewing
 23rd Ave Brewery,,1,micro,2313 S Jackson St,Seattle,98144,King,47.59927,-122.3018,2018,0,0,1,0,https://untappd.com/23rdAveBrewery
-4 Stitch Brewing Company,,1,brewpub,16709 9th Ave SE,Mill Creek,98012,Snohomish,47.84617437,-122.2201877,2023,1,0,1,0,https://untappd.com/4StitchBrewingCompany
+4 Stitch Brewing Company,,1,brewpub,16709 9th Ave SE,Mill Creek,98012,Snohomish,47.84617437,-122.2201877,2017,1,0,1,0,https://untappd.com/4StitchBrewingCompany
 5 North Brewing Company,,1,taproom,6501 N Cedar Rd,Spokane,99208,Spokane,47.71758683,-117.4328496,2020,0,0,1,1,https://untappd.com/w/5-north-brewing-company/459754
 5 Rights Brewing Company,,1,brewpub,1514 3rd Street,Marysville,98270,Snohomish,48.05083967,-122.1766716,2015,0,1,1,0,https://untappd.com/5RightsBrewing
 54°40' Brewing Company,,1,brewpub,3801 S Truman Rd #1,Washougal,98671,Clark,45.56483205,-122.3270743,2015,0,1,1,0,https://untappd.com/5440BrewingCompany
@@ -14,7 +14,7 @@ brewery,satellite_location,flagship,brewery_type,address,city,zipcode,county,lat
 Acorn Brewing,,1,taproom,2105 E Meridian,Edgewood,98371,Pierce,47.237965,-122.293459,2021,1,0,1,0,https://untappd.com/Acorn_Brewing
 Airways Brewing Company,Pacific Business park,1,brewpub,8611 S 212th St,Kent,98031,King,47.411994,-122.2249666,2010,1,1,1,0,https://untappd.com/airwaysbrewing
 Airways Brewing Company,Downtown Kent,0,taproom,320 W Harrison St,Kent,98032,King,47.38212953,-122.2358788,2010,1,1,1,0,https://untappd.com/airwaysbrewing
-Ale Spike Camano Island Brewing,,1,brewpub,1244 Moore Rd I-1,Camano,98282,Island,48.2572192,-122.4381311,2023,1,1,1,0,https://untappd.com/AleSpikeCamanoIslandBrewery
+Ale Spike Camano Island Brewing,,1,brewpub,1244 Moore Rd I-1,Camano,98282,Island,48.2572192,-122.4381311,2018,1,1,1,0,https://untappd.com/AleSpikeCamanoIslandBrewery
 Anacortes Brewery,,1,micro,320 Commercial Ave,Anacortes,98221,Skagit,48.5192406,-122.6127606,2002,1,1,1,0,https://untappd.com/AnacortesBreweryRockfishGrill
 Ancient Lakes Brewing Company,,1,brewpub,1004 F Street SW #12,Quincy,98848,Grant,47.6105405,-122.308173,2010,0,0,1,0,https://untappd.com/ancientlakesbrewing
 Ashtown Brewing Company,,1,taproom,1175 Hudson St,Longview,98632,Cowlitz,46.13661487,-122.9327409,2013,0,1,1,0,https://untappd.com/AshtownBrewingCompany
@@ -24,7 +24,7 @@ Aslan Brewing Company,Bellingham State St,0,taproom,1322 N State Street,Bellingh
 At Large Brewing,,1,brewpub,2730 W Marine View Drive,Everett,98201,Snohomish,47.98158257,-122.2144055,2015,0,1,1,0,https://untappd.com/AtLargeBrewingCompany
 Atomic Ale Brewpub and Eatery,,1,micro,1015 Lee Blvd,Richland,99352,Benton,46.27475215,-119.2782028,2005,0,1,1,0,https://untappd.com/w/atomic-ale-brewpub-eatery/15573
 Atwood Farm Brewery,,1,micro,4012 Sweet Rd,Blaine,98230,Whatcom,48.979201,-122.698149,2016,0,0,1,0,https://untappd.com/AtwoodFarmBrewery
-Audacity Brewing,,1,micro,1208 10th St Suite C,Snohomish,98290,Snohomish,47.924245,-122.096751,2022,1,0,0,0,https://untappd.com/AudacityBrewing
+Audacity Brewing,,1,micro,1208 10th St Suite C,Snohomish,98290,Snohomish,47.924245,-122.096751,2021,1,0,0,0,https://untappd.com/AudacityBrewing
 Backwoods Brewing Company,,1,taproom,1162 Wind River Rd,Carson,98610,Skamania,45.72871954,-121.8203734,2012,0,1,1,0,https://untappd.com/BackwoodsBrewingCompany
 Bad Jimmy's Brewing Company,,1,alt prop,4358 Leary Way Nw,Seattle,98107,King,47.6596601,-122.365556,2014,0,1,1,0,https://untappd.com/BadJimmysBrewingCo
 Badass Backyard Brewing,,1,brewpub,1415 N Argonne Rd,Spokane Valley,99212,Spokane,47.66990294,-117.282921,2015,1,1,1,0,https://untappd.com/Badass-Backyard-Brewing
@@ -52,7 +52,7 @@ Big Block Brewing,Redmond,0,brewpub,14950 NE 95th St,Redmond,98052,King,47.68640
 Big House Brewpub,,1,brewpub,11 S Palouse St,Walla Walla,99362,Walla Walla,46.0690413,-118.3347678,2019,1,0,0,0,https://untappd.com/BigHouseBrewPub
 Big Time Brewery,,1,brewpub,4133 University Ave NE,Seattle,98105,King,47.65795447,-122.3136539,1988,0,1,1,0,https://untappd.com/BigTimeBrewingCompany
 Birdsview Brewing Company,,1,micro,38302 State Rt 20,Concrete,98237,Skagit,48.52822071,-121.9130771,2006,0,1,1,0,https://untappd.com/BirdsviewBrewingCompany
-Bizarre Brewing,,1,brewpub,4441 26th Ave W Suite A,Seattle,98199,King,47.66058456,-122.3902884,2023,1,0,1,0,https://untappd.com/BizarreBrewing
+Bizarre Brewing,,1,brewpub,4441 26th Ave W Suite A,Seattle,98199,King,47.66058456,-122.3902884,2022,1,0,1,0,https://untappd.com/BizarreBrewing
 Black Fleet Brewing,,1,taproom,2302 Fawcett Ave,Tacoma,98402,Pierce,47.240775,-122.440565,2019,1,0,0,0,https://untappd.com/BlackFleetBrewing
 Black Label Brewing Company,,1,micro,W 19 Main Ave,Spokane,99201,Spokane,47.6587606,-117.41198,2015,0,1,1,0,https://untappd.com/BlackLabelBrewingCompany
 Black Raven Brewing Company,Woodinville,1,micro,15902 Woodinville-Redmond Rd NE,Woodinville,98072,King,47.74648386,-122.1631586,2009,1,1,1,0,https://untappd.com/BlackRavenBrewingCompany
@@ -62,7 +62,7 @@ Blewett Brewing Company,,1,micro,911 Commercial Street,Leavenworth,98826,Chelan,
 Bluebird Microcreamery and Brewery,,1,nanobrewery,7415 Greenwood Ave N,Seattle,98103,King,47.6830284,-122.355485,2012,0,0,0,0,https://untappd.com/w/bluebird-microcreamery-brewery/41428
 Bombing Range Brewing Company,,1,micro,2000 Logston Blvd #126,Richland,99354,Benton,46.318477,-119.301893,2017,0,1,1,0,https://untappd.com/w/bombing-range-brewing-company/298095
 Bosk Brew Works,,1,alt prop,14350 NE 193Rd Pl Building C,Woodinville,98072,King,47.76769213,-122.1484418,2018,1,0,0,0,https://untappd.com/BoskBrewWorks
-Bottle Bay Brewing Company,,1,brewpub,503 E 30th Ave,Spokane,99203,Spokane,47.62733743,-117.4029121,2022,0,0,1,0,https://untappd.com/BottleBayBrewingCo
+Bottle Bay Brewing Company,,1,brewpub,503 E 30th Ave,Spokane,99203,Spokane,47.62733743,-117.4029121,2020,0,0,1,0,https://untappd.com/BottleBayBrewingCo
 Boundary Bay Brewery,,1,brewpub,1107 Railroad Ave,Bellingham,98225,Whatcom,48.74721696,-122.4810156,1995,1,1,1,0,https://untappd.com/bbaybrewery
 BreakThru Brewing Company,,1,taproom,8611 S 212th St,Kent,98031,King,47.411994,-122.2249666,2021,1,0,1,0,https://untappd.com/BreakThruBrewingCompany
 Brewbakers Brewing Company,,1,micro,11927 84th St Ne,Lake Stevens,98258,Snohomish,48.07243446,-122.0676933,2015,0,1,1,0,https://untappd.com/w/brewbakers-brewery-wa/219768
@@ -75,7 +75,7 @@ Burke-Gilman Brewing Company,,1,taproom,3626 NE 45th St #102,Seattle,98105,King,
 Burwood Brewing Company,,1,micro,1120 E St,Walla Walla,99362,Walla Walla,46.0933964,-118.2659,2014,1,1,1,0,https://untappd.com/BurwoodBrewingCompany
 Byron Street Brewery,,1,taproom,3388 NW Byron Street Suite 101,Silverdale,98383,Kitsap,47.6447357,-122.6956894,2022,0,0,1,0,https://untappd.com/w/byron-street/529245
 Cairn Brewing,,1,micro,7204 NE 175th St,Kenmore,98028,King,47.756734,-122.244177,2016,0,1,0,0,https://untappd.com/CairnBeer
-Camas Brewing Company,,1,taproom,335 NE Cedar St,Camas,98607,Clark,45.58542289,-122.4038144,2022,0,0,1,1,https://untappd.com/CamasBrewingCo
+Camas Brewing Company,,1,taproom,335 NE Cedar St,Camas,98607,Clark,45.58542289,-122.4038144,2021,0,0,1,1,https://untappd.com/CamasBrewingCo
 Camp Colvos Brewing,Vashon,1,brewpub,17636 Vashon Hwy Sw,Vashon,98070,King,47.4464422,-122.4601578,2018,0,0,0,0,https://untappd.com/CampColvosBrewing
 Camp Colvos Brewing,Tacoma,0,taproom,2104 Commerce St,Tacoma,98402,Pierce,47.24283525,-122.4371278,2018,0,0,0,0,https://untappd.com/CampColvosBrewing
 Cardinal Craft Brewing,,1,brewpub,15579 Peterson Rd,Burlington,98233,Skagit,48.47251215,-122.4098098,2016,0,0,0,0,https://untappd.com/CardinalCraftBrewing
@@ -96,7 +96,7 @@ Crossed Arrows Brewery,,1,taproom,14004 Purdy Dr Gig harbor,Gig Harbor,98332,Pie
 Crucible Brewing Company,Woodinville Forge,0,taproom,12826 NE 178th St Ste C,Woodinville,98072,King,47.75649976,-122.1685679,2015,0,1,1,1,https://untappd.com/CrucibleBrewing
 Crucible Brewing Company,Everett,1,micro,909 SE Everett Mall Way Ste D440,Everett,98208,Snohomish,47.91063493,-122.2196672,2015,0,1,1,0,https://untappd.com/CrucibleBrewing
 Cursed Brewing,,1,taproom,3108 S Lloyd Ln,Spokane,99223,Spokane,47.6259653,-117.3437658,2022,1,0,1,1,https://untappd.com/CursedBrewing
-Deep Draft Brewing,,1,brewpub,3536 W Belfair Valley Rd,Bremerton,98312,Kitsap,47.5291651,-122.699005,2023,0,0,1,0,https://untappd.com/Deep_Draft_Brewing_Co
+Deep Draft Brewing,,1,brewpub,3536 W Belfair Valley Rd,Bremerton,98312,Kitsap,47.5291651,-122.699005,2016,0,0,1,0,https://untappd.com/Deep_Draft_Brewing_Co
 Diamond Knot Brewing Company,Front St Mukilteo,1,brewpub,621 Front St,Mukilteo,98275,Snohomish,47.94855427,-122.3049752,1993,1,1,1,0,https://untappd.com/diamondknot
 Diamond Knot Brewing Company,Chennault Beach road,0,brewpub,4602 Chennault Beach Rd,Mukilteo,98275,Snohomish,47.8961112,-122.2955186,1993,1,1,1,0,https://untappd.com/diamondknot
 Diamond Knot Brewing Company,mountlake terrace,0,taproom,5602 232nd St Sw,Mountlake Terrace,98043,Snohomish,47.7879417,-122.3092553,1993,1,1,1,0,https://untappd.com/diamondknot
@@ -124,7 +124,7 @@ E2W Brewing,,1,micro,12913 Shady Glen Ave SE,Olalla,98359,Kitsap,47.432463,-122.
 E9 Brewing Company,,1,micro,2506 Fawcett Ave,Tacoma,98402,Pierce,47.238206,-122.440021,1995,0,0,1,0,https://untappd.com/EngineHouseNo9
 E9 Firehouse and Gastropub,,1,brewpub,611 N Pine St,Tacoma,98406,Pierce,47.2564305,-122.473523,1971,0,1,0,0,https://untappd.com/EngineHouseNo9
 Echoes Brewing Company,,1,micro,19815 Viking Ave Nw,Poulsbo,98370,Kitsap,47.74292547,-122.6570659,2020,0,0,1,0,https://untappd.com/EchoesBrewing
-El Sueñito Brewing Company,,1,micro,1926 Humboldt St,Bellingham,98225,Whatcom,48.75625625,-122.4675463,2023,0,0,0,0,https://untappd.com/ElSuenito
+El Sueñito Brewing Company,,1,micro,1926 Humboldt St,Bellingham,98225,Whatcom,48.75625625,-122.4675463,2022,0,0,0,0,https://untappd.com/ElSuenito
 Elk Head Brewing Company,,1,micro,28120 Hwy 410 A-#10,Buckley,98321,Pierce,47.1590532,-122.05279,2005,0,1,1,0,https://untappd.com/CMORGANROTH
 Ellensburg Brewery Company,,1,brewpub,206 N Main St,Ellensburg,98926,Kittitas,46.99354528,-120.5484207,2021,0,0,0,0,https://untappd.com/EllensburgBrewery
 Elliott Bay Brewing Company,Lake City,0,brewpub,12537 Lake City Way Northeast,Seattle,98125,King,47.719712,-122.2951078,2001,1,0,1,0,https://untappd.com/ElliottBay
@@ -136,7 +136,7 @@ Elysian Brewing,Industrial District,0,micro,5510 Airport Way S,Seattle,98108,Kin
 Ethereal Meads,,1,brewpub,18109 NE 72nd Ave,Battle Ground,98604,Clark,45.753112,-122.597776,2018,0,0,0,0,https://untappd.com/w/ethereal-meads/174093
 Everybody's Brewing,,1,micro,151 E Jewitt Blvd,White Salmon,98672,Klickitat,45.7273156,-121.48538,2009,1,1,1,0,https://untappd.com/EverybodysBrewing
 Exit 16 Brewing,,1,micro,34202 NE Finalburg Rd,La Center,98629,Clark,45.869122,-122.631814,2022,0,0,0,0,https://untappd.com/Exit16Brewing
-Explorer Brewing Company,,1,micro,209 Ash St,Kelso,98626,Cowlitz,46.14223043,-122.9120371,2022,1,0,1,0,https://untappd.com/ExplorerBrewingCompany
+Explorer Brewing Company,,1,micro,209 Ash St,Kelso,98626,Cowlitz,46.14223043,-122.9120371,2019,1,0,1,0,https://untappd.com/ExplorerBrewingCompany
 Fair Isle Brewing,,1,brewpub,936 NW 49th St,Seattle,98107,King,47.66446655,-122.3691185,2017,1,0,1,0,https://untappd.com/Fair_Isle_Brewing
 Farmstrong Brewing Company,,1,micro,110 Stewart Rd,Mount Vernon,98273,Skagit,48.44308447,-122.3427346,2015,0,1,0,0,https://untappd.com/FarmStrong1
 Fast Fashion Beer,,1,micro,1723 1st Ave S,Seattle,98134,King,47.5874822,-122.334465,2021,0,0,1,0,https://untappd.com/FastFashion
@@ -155,7 +155,7 @@ For the Love of God Brewing,,1,micro,2617 W Northwest Blvd,Spokane,99205,Spokane
 Formula Brewing,,1,micro,1875 NW Poplar Way,Issaquah,98027,King,47.549578,-122.066248,2020,1,0,1,0,https://untappd.com/Formula_Brewing
 Fortside Brewing Company,,1,micro,2200 NE Andresen #B,Vancouver,98661,Clark,45.63847877,-122.6010678,2014,1,1,1,0,https://untappd.com/FortsideBrewing
 Forward Operating Base Brewing Company,,1,brewpub,2750 Williamson Place NW #100,Dupont,98327,Pierce,47.1077533,-122.62308,2017,0,1,1,0,https://untappd.com/FOBBrewingCo
-Fountain Brewing,,1,micro,2416 Meridian St,Bellingham,98225,Whatcom,48.7625531,-122.4858536,2023,0,0,0,0,https://untappd.com/FountainBrewing
+Fountain Brewing,,1,micro,2416 Meridian St,Bellingham,98225,Whatcom,48.7625531,-122.4858536,2022,0,0,0,0,https://untappd.com/FountainBrewing
 Four Generals Brewing,,1,micro,229 Wells Ave S,Renton,98057,King,47.4801424,-122.205586,2016,1,1,1,0,https://untappd.com/Four_Generals_Brewing
 Four Horsemen Brewery,,1,micro,30221 148th Ave Se,Kent,98042,King,47.3309245,-122.14497,2016,0,1,0,0,https://untappd.com/FourHorsemenBrewery
 Four-Eyed Guys Brewing Company,,1,regional,910 W Indiana Ave,Spokane,99205,Spokane,47.67501697,-117.425459,2021,0,0,0,0,https://untappd.com/w/four-eyed-guys-brewing/325691
@@ -172,7 +172,7 @@ Ghost Runners Brewery,,1,micro,4216 NE Minnehaha St #108,Vancouver,98661,Clark,4
 Ghostfish Brewing Company,,1,micro,2942 1St Ave S,Seattle,98134,King,47.57733551,-122.3340811,2015,1,1,1,0,https://untappd.com/GhostfishBrewingCompany
 Gig Harbor Brewing,Tacoma,0,taproom,3120 S Tacoma Way,Tacoma,98409,Pierce,47.22806016,-122.4772681,2015,0,1,1,0,https://untappd.com/GigHarborBrewing
 Gig Harbor Brewing,Gig Harbor,1,taproom,3155 Harborview Dr,Gig Harbor,98335,Pierce,47.32976288,-122.5813254,2015,0,1,1,0,https://untappd.com/GigHarborBrewing
-Golden Handle Brewing Company,,1,micro,111 S Cedar St,Spokane,99201,Spokane,47.65622004,-117.4323539,2022,0,0,1,1,https://untappd.com/GoldenHandleProject
+Golden Handle Brewing Company,,1,micro,111 S Cedar St,Spokane,99201,Spokane,47.65622004,-117.4323539,2019,0,0,1,1,https://untappd.com/GoldenHandleProject
 Good Brewing Company,,1,brewpub,5817 238th St SE #3,Woodinville,98072,King,47.78256587,-122.1547295,2017,0,1,1,0,https://untappd.com/GBC2017
 Grains Of Wrath Brewing,,1,micro,425 NW Birch Street,Camas,98607,Clark,45.5856554,-122.4056,2018,1,0,1,0,https://untappd.com/GrainsOfWrath
 Gruff Brewing Company,,1,micro,104 E Maple St #101,Bellingham,98225,Whatcom,48.74755229,-122.4821137,2015,0,1,1,0,https://untappd.com/GruffBrewingCompany
@@ -186,14 +186,14 @@ Heathen Brewing,Salmon Creek,0,micro,5612 NE 119th St,Vancouver,98686,Clark,45.7
 Heathen Brewing,Downton Vancouver,1,micro,1109 Washington Street,Vancouver,98660,Clark,45.6300071,-122.6723551,2012,1,0,1,0,https://untappd.com/HeathenBrewing
 Hellbent Brewing Company,,1,micro,13035 Lake City Way Ne,Seattle,98125,King,47.72321374,-122.2931793,2015,1,1,1,0,https://untappd.com/HellbentBrewingCompany
 Hemlock State Brewing Company,,1,contract brewer,23601 56th Ave W Suite 400,Mountlake Terrace,98043,Snohomish,47.784669,-122.30831,2016,1,1,1,0,https://untappd.com/Hemlock_State
-Here Today Brewery and Kitchen,,1,micro,2815 Elliott Ave Suite 101,Seattle,98121,King,47.61486702,-122.3537311,2022,1,0,1,0,https://untappd.com/HereTodaySeattle_
+Here Today Brewery and Kitchen,,1,micro,2815 Elliott Ave Suite 101,Seattle,98121,King,47.61486702,-122.3537311,2020,1,0,1,0,https://untappd.com/HereTodaySeattle_
 Hideaway Brewing Company,,1,micro,18731 SE 314th St,Aurbun,98092,Kig,47.3208496,-122.176449,2014,0,1,1,1,https://untappd.com/HideawayBrewingCompany
 High Steel Beer Company,,1,micro,233 S 1St St,Shelton,98584,Mason,47.21170988,-123.100443,1999,1,0,1,0,https://untappd.com/HighSteelBeerCo
-Hildegard Ferments and Botanicals,,1,micro,1150 NW 46th St,Seattle,98107,King,47.6627151,-122.3718421,2023,1,0,0,0,https://untappd.com/HildegardFermentsBotanicals
+Hildegard Ferments and Botanicals,,1,micro,1150 NW 46th St,Seattle,98107,King,47.6627151,-122.3718421,2022,1,0,0,0,https://untappd.com/HildegardFermentsBotanicals
 Hoh River Brewery,,1,micro,2442 Mottman Rd Sw,Tumwater,98512,Thurston,47.0254333,-122.935464,2014,0,1,1,0,https://untappd.com/HohRiverBrewery
 Holy Mountain Brewing Company,,1,brewpub,1421 Elliott Ave W,Seattle,98119,King,47.630821,-122.3740032,2014,0,1,1,0,https://untappd.com/HolyMountainBrewing
 Hood Canal Brewery,,1,micro,26499 Bond Rd Ne,Kingston,98346,Kitsap,47.8038314,-122.5731593,1996,0,1,1,0,https://untappd.com/w/hood-canal-brewery/8254
-Hop Chaos Brewing Company,,1,micro,10115 N Newport Hwy Suite A,Spokane,99218,Spokane,47.74870553,-117.4034444,2022,0,0,1,0,https://untappd.com/HopChaosBrewingCompany
+Hop Chaos Brewing Company,,1,micro,10115 N Newport Hwy Suite A,Spokane,99218,Spokane,47.74870553,-117.4034444,2021,0,0,1,0,https://untappd.com/HopChaosBrewingCompany
 Hops and Seed Brewing Company,,1,micro,9206 200th St SE Suite C-5,Snohomish,98290,Snohomish,47.7640209,-122.14992,2022,0,0,1,0,https://untappd.com/HopsAndSeedBrewery
 Hopworks Urban Brewery,,1,micro,17707 SE Mill Plain Blvd,Vancouver,98683,Clark,45.61700233,-122.4953194,2007,0,1,0,0,https://untappd.com/HopworksBeer
 Hoquiam Brewing Company,,1,micro,526 8th Street,Hoquiam,98550,Grays Harbor,46.97562514,-123.8861778,2018,0,1,1,0,https://untappd.com/HoquiamBrewing
@@ -207,7 +207,7 @@ In The Shadow Brewing,,1,micro,19731 Old Burn Rd,Arlington,98223,Snohomish,48.17
 Inland Ale Works,,1,brewpub,505 1St St,Cheney,99004,Spokane,47.48762901,-117.5748795,2018,0,0,1,0,https://untappd.com/InlandAleWorks
 Iron Goat Brewing,,1,regional,1302 W 2nd Ave,Spokane,99201,Spokane,47.65452677,-117.4312846,2012,1,1,1,0,https://untappd.com/irongoatbrewing
 Iron Horse Brewery,,1,micro,1000 Prospect St Suite 4,Ellensburg,98926,Kittitas,46.999581,-120.564737,2005,1,1,1,0,https://untappd.com/ironhorsebrewery
-Irrelevant Beer,,1,micro,110 E 17th St,Vancouver,98660,Clark,45.6343758,-122.6711705,2023,0,0,0,0,https://untappd.com/IrrelevantBeer
+Irrelevant Beer,,1,micro,110 E 17th St,Vancouver,98660,Clark,45.6343758,-122.6711705,2022,0,0,0,0,https://untappd.com/IrrelevantBeer
 Island Hoppin' Brewery,,1,micro,33 Hope Lane,Eastsound,98245,San Juan,48.70268029,-122.9152528,2011,1,1,1,0,https://untappd.com/IslandHoppinBrewery
 Jellyfish Brewing Company,,1,micro,917 South Nebraska Street,Seattle,98108,King,47.54894045,-122.3202516,2017,1,1,1,0,https://untappd.com/Jellyfish_Brewing_Company
 Jones Creek Brewing,,1,micro,173 Beam Rd,Chehalis,98532,Lewis,46.58829204,-123.2784835,1996,0,1,1,0,https://untappd.com/JonesCreek
@@ -215,12 +215,12 @@ Kulshan Brewing Company,Sunnyland Taproom,1,micro,2238 James Street,Bellingham,9
 Kulshan Brewing Company,Roosevelt (K2) Taproom,0,seasonal,1538 Kentucky Street,Bellingham,98225,Whatcom,48.7573938,-122.4536078,2012,1,1,1,0,https://untappd.com/KulshanBrewingCompany
 Kulshan Brewing Company,downtown Bellingham waterfront,0,brewpub,298 W Laurel St,Bellingham,98225,Whatcom,48.7477082,-122.4850955,2012,1,1,1,0,https://untappd.com/KulshanBrewingCompany
 La Conner Brewing Company,,1,planning,117 S First Box 397,La Conner,98257,Skagit,48.3917559,-122.49585,2002,0,0,0,0,https://untappd.com/LaConnerBrewingCompany
-Ladd and Lass Brewing,,1,brewpub,722 NE 45th St,Seattle,98105,King,47.66139833,-122.3204876,2022,1,0,1,0,https://untappd.com/LaddandLassBrewing
+Ladd and Lass Brewing,,1,brewpub,722 NE 45th St,Seattle,98105,King,47.66139833,-122.3204876,2018,1,0,1,0,https://untappd.com/LaddandLassBrewing
 Laht Neppur Brewing Company,,1,micro,444 Preston Ave,Waitsburg,99361,Walla Walla,46.270044,-118.148769,2006,0,1,1,0,https://untappd.com/LahtNeppurBrewing
 Lake Chelan Brewery,,1,micro,50 Wapato Way,Manson,98831,Chelan,47.8852911,-120.1590444,2013,0,0,0,0,https://untappd.com/w/lake-chelan-brewing-company/37187
 Lake Stevens Brewing Company,,1,micro,2010 Grade Rd,Lake Stevens,98258,Snohomish,48.01611239,-122.0632558,2012,1,1,1,0,https://untappd.com/Lake_Stevens_Brewing_Company
 Lantern Brewing,,1,micro,938 N 95th Street,Seattle,98103,King,47.69789685,-122.346672,2011,0,1,1,0,https://untappd.com/LanternBrewing
-Larrabee Lager Company,,1,micro,4151 Guide Meridian Rd #100,Bellingham,98226,Whatcom,48.79191656,-122.4905122,2023,1,0,0,0,https://untappd.com/w/larrabee-lager-company/546009
+Larrabee Lager Company,,1,micro,4151 Guide Meridian Rd #100,Bellingham,98226,Whatcom,48.79191656,-122.4905122,2022,1,0,0,0,https://untappd.com/w/larrabee-lager-company/546009
 Lazy Boy Brewing,,1,taproom,715 100th St SE Suite A-1,Everett,98208,Snohomish,47.90816039,-122.2209379,2006,0,1,1,0,https://untappd.com/lazyboybrewing
 Logan Brewing Company,,1,micro,510 SW 151St St,Burien,98166,King,47.4678566,-122.3409856,2021,1,0,1,0,https://untappd.com/LoganBrewingCompany
 Loowit Brewing Company,,1,micro,507 Columbia Street,Vancouver,98660,Clark,45.6252334,-122.6736359,2012,1,1,1,0,https://untappd.com/LoowitBrewing
@@ -261,7 +261,7 @@ Mount Olympus Brewing,,1,taproom,105 W Heron St,Aberdeen,98520,Grays Harbor,46.9
 Mountain Lakes Brewing Company,,1,taproom,105 W Heron St,Spokane,99201,Spokane,47.657891,-117.413453,2018,1,0,0,0,https://untappd.com/MountainLakesBrewCo
 Mule and Elk Brewing Company,,1,micro,418 E 1st St Suite 5,Cle Elum,98922,Kittitas,47.19383354,-120.9322128,2016,0,1,1,0,https://untappd.com/MuleElkBrewingCo
 Narrows Brewing Company,,1,brewpub,9007 S 19th Street,Tacoma,98466,Pierce,47.24346569,-122.5564963,2013,1,1,1,0,https://untappd.com/NarrowsBrewing
-Natural 20 Brewing Company,,1,micro,15310 E Marietta Ave Ste 4,Spokane Valley,99216,Spokane,47.680793,-117.198498,2022,0,0,1,0,https://untappd.com/Natural20BrewingCo
+Natural 20 Brewing Company,,1,micro,15310 E Marietta Ave Ste 4,Spokane Valley,99216,Spokane,47.680793,-117.198498,2014,0,0,1,0,https://untappd.com/Natural20BrewingCo
 No Boat Brewing Company,,1,taproom,35214 SE Center Street #2,Snoqualmie,98065,King,47.5285744,-121.8707445,2016,1,1,0,0,https://untappd.com/NoBoatBrewingCompany
 No Drought Brewing Company,,1,regional,10604 E 16th Ave,Spokane Valley,99206,Spokane,47.64233504,-117.2626058,2022,0,0,1,0,https://untappd.com/NoDroughtBrewingCo
 No-Li Brewhouse,,1,taproom,1003 E Trent Box 2 Suite 180,Spokane,99202,Spokane,47.662698,-117.39419,2003,1,1,1,0,https://untappd.com/NoLiBrewhouse
@@ -294,7 +294,7 @@ Paradise Creek Brewery,Trailside Taproom,0,micro,505 SE Riverside St,Pullman,991
 Paramour Brewing Company,,1,brewpub,6520 S Waneta Rd,Spokane,99223,Spokane,47.59421849,-117.3564973,2021,0,0,1,0,https://untappd.com/w/paramour-brewing/457368
 Parker's Steakhouse and Brewery,,1,brewpub,1300 Mount Saint Helens Way Ne,Castle Rock,98611,Cowlitz,46.28728,-122.898885,2013,0,0,0,0,https://untappd.com/w/parker-s-steakhouse-brewery/44535
 Pastime Brewery,,1,taproom,1307 Main St,Oroville,98844,Okanogan,48.93758103,-119.4363202,2020,0,1,1,0,https://untappd.com/w/past-time-brewing/107617
-Peace of Mind Brewing,,1,micro,18411 Hwy 99,Lynnwood,98037,Snohomish,47.83174875,-122.3058165,2023,1,0,1,0,https://untappd.com/Peace_Of_Mind_Brewing
+Peace of Mind Brewing,,1,micro,18411 Hwy 99,Lynnwood,98037,Snohomish,47.83174875,-122.3058165,2022,1,0,1,0,https://untappd.com/Peace_Of_Mind_Brewing
 Peddler Brewing Company,,1,brewpub,1514 NW Leary Way,Seattle,98107,King,47.66387586,-122.3771003,2013,0,0,0,0,https://untappd.com/PeddlerBrewing
 Penn Cove Brewing Company,,1,micro,103 S Main St,Coupeville,98239,Island,48.2109786,-122.685896,2015,0,0,0,1,https://untappd.com/PennCoveBrewingCo
 Perfect Circle Brewing,,1,brewpub,713 6th Street,Prosser,99350,Benton,46.20462657,-119.7691094,2021,0,0,1,0,https://untappd.com/PerfectCircleBrewing
@@ -306,7 +306,7 @@ Postdoc Brewing,,1,taproom,17625 NE 65th St #100,Redmond,98052,King,47.66392308,
 Potlatch Brewing Company,,1,brewpub,24180 US-101,Hoodsport,98548,Mason,47.40491678,-123.141186,2021,0,0,1,0,https://untappd.com/w/potlatch-brewing/500440
 Powerhouse Restaurant and Brewery,,1,nano,454 E Main,Puyallup,98372,Pierce,47.19158631,-122.2879828,2005,1,1,1,0,https://untappd.com/PowerhouseRestaurantBrewery
 Precious Things Fermentation Project,,1,taproom,8403 N Bruce Rd,Spokane,99217,Spokane,47.73390559,-117.2865852,2018,1,0,1,0,https://untappd.com/Preciousthingsbeer
-Project 9 Brewing,,1,taproom,1409 NE 80th St,Seattle,98115,King,47.6864758,-122.3130665,2023,0,0,0,0,https://untappd.com/project9brewing
+Project 9 Brewing,,1,taproom,1409 NE 80th St,Seattle,98115,King,47.6864758,-122.3130665,2022,0,0,0,0,https://untappd.com/project9brewing
 Propolis Brewing,,1,taproom,2457 Jefferson St,Port Townsend,98368,Jefferson,48.1086174,-122.773463,2013,0,1,1,0,https://untappd.com/PropolisBrewing
 Quartzite Brewing Company,,1,taproom,105 W Main St,Chewelah,99109,Stevens,48.27595137,-117.7169469,2016,1,1,1,0,https://untappd.com/QuartziteBrewingCompany
 Quirk Brewing,,1,taproom,425 B St,Walla Walla,99362,Walla Walla,46.0901597,-118.27695,2016,0,1,1,0,https://untappd.com/QuirkBrewing
@@ -323,7 +323,7 @@ RAM Restaurant and Brewery,,0,brewpub,512 Ramsay Way Ste 4-103,Kent,98032,King,4
 RAM Restaurant and Brewery,,0,brewpub,965 NE Park Drive,Issaquah,98029,King,47.542944,-122.017035,1971,1,1,1,0,https://untappd.com/theRAM
 Rattlesnake Mountain Brewing Company,,1,taproom,2696 N Columbia Center Blvd,Richland,99352,Benton,46.237587,-119.221937,1999,0,1,1,0,https://untappd.com/w/rattlesnake-mountain-brewing-company/15572
 Ravenna Brewing Company,,1,taproom,5408 26th Ave Ne,Seattle,98105,King,47.66814202,-122.2994354,2015,0,1,1,0,https://untappd.com/RavennaBrewingCo
-Recluse Brewing,,1,regional,4035 Grant St Suite 102,Washougal,98671,Clark,45.56246607,-122.326347,2023,1,0,0,0,https://untappd.com/RecluseBrewWorks
+Recluse Brewing,,1,regional,4035 Grant St Suite 102,Washougal,98671,Clark,45.56246607,-122.326347,2022,1,0,0,0,https://untappd.com/RecluseBrewWorks
 Redhook Brewlab,,1,brewpub,714 E Pike St,Seattle,98122,King,47.61413993,-122.3230889,1982,0,0,0,0,https://untappd.com/Redhook
 Remlinger Farm Brewery,,1,brewpub,32610 NE 32nd St,Carnation,98014,King,47.63908563,-121.9021766,2022,1,0,1,0,https://untappd.com/w/remlinger-brewing/521350
 Republic Brewing Company,,1,brewpub,26 N Clark Ave,Republic,99166,Ferry,48.64801538,-118.737951,2011,1,1,1,0,https://untappd.com/RepublicBrewingCompany
@@ -353,9 +353,9 @@ Scuttlebutt Brewing Company,,1,micro,3310 Cedar Street,Everett,98201,Snohomish,4
 Scuttlebutt Brewing Company,,0,brewpub,1205 Craftsman Way,Everett,98201,Snohomish,48.000862,-122.217199,1996,1,1,1,0,https://untappd.com/ScuttlebuttBrewingCompany
 Scythe Brewing Company,,1,micro,1217 3rd Avenue Suite 150,Longview,98632,Cowlitz,46.13381,-122.92371,2021,0,0,1,0,https://untappd.com/w/scythe-brewing-co/520668
 Seapine Brewing Company,,1,taproom,2959 Utah Ave S,Seattle,98134,King,47.57723323,-122.335249,2012,0,1,1,0,https://untappd.com/SeapineBrewing
-Selah Springs Brewing Company,,1,micro,310 S 1st St,Selah,98942,Yakima,46.64962306,-120.5313354,2023,0,0,0,0,https://untappd.com/w/selah-springs-brewing-co/522035
+Selah Springs Brewing Company,,1,micro,310 S 1st St,Selah,98942,Yakima,46.64962306,-120.5313354,2022,0,0,0,0,https://untappd.com/w/selah-springs-brewing-co/522035
 Shellback Brewing,,1,micro,6400 w 13th ct,Kennewick,99338,Benton,46.19705,-119.20829,2020,0,0,1,0,https://untappd.com/w/shellback-brewing/517182
-Shorthead Brewing,,1,micro,123 E Yakima Ave Ste 110,Yakima,98901,Yakima,46.60277707,-120.504983,2023,0,0,0,0,https://untappd.com/ShortheadBrewing
+Shorthead Brewing,,1,micro,123 E Yakima Ave Ste 110,Yakima,98901,Yakima,46.60277707,-120.504983,2022,0,0,0,0,https://untappd.com/ShortheadBrewing
 Shoug Brewing Company,,1,brewpub,1311 SE Cliffside Dr,Washougal,98671,Clark,46.19705,-119.20829,2017,0,1,1,0,https://untappd.com/w/shoug-brewing-company/360746
 Sig Brewing Company,,1,regional,2534 Tacoma Ave S,Tacoma,98402,Pierce,47.23791051,-122.4411779,2020,0,0,1,0,https://untappd.com/SigBrewingCompany
 Silver City Brewery,,1,regional,2799 NW Myhre Rd,Silverdale,98383,Kitsap,47.659485,-122.687646,2010,1,1,1,0,https://untappd.com/SilverCityBrewery
@@ -471,7 +471,7 @@ Counterbalance Brewing Company,,1,micro,503 S Michigan St Ste B,Seattle,98108,Ki
 Barlow's Brewery,,1,brewpub,705 SE Park Crest Ave Suite D430,Vancouver,98683,Clark,45.61626235,-122.5222064,2020,0,0,1,1,https://untappd.com/BarlowsBrewery
 Decibel Brewing Company,,1,micro,18204 Bothell Everett Hwy Suite C,Bothell,98012,Snohomish,47.8332561,-122.2103369,2016,0,1,1,1,https://untappd.com/DecibelBrewing
 Darach Brewing Company,,1,taproom,1015 N State St,Bellingham,98225,Whatcom,48.74570657,-122.4813808,2022,0,0,1,1,https://untappd.com/v/darach-brewing-company/11718840
-Common Language Brewing Company,,1,micro,"926 W Sprague Ave, Spokane, WA",Spokane,99201,Spokane,47.6575152,-117.4262344,2023,0,0,1,1,https://untappd.com/w/common-language-brewing/519175
+Common Language Brewing Company,,1,micro,"926 W Sprague Ave, Spokane, WA",Spokane,99201,Spokane,47.6575152,-117.4262344,2022,0,0,1,1,https://untappd.com/w/common-language-brewing/519175
 Griffin Brewing Pilot House,,1,micro,1214 Griffin Ave,Enumclaw,98022,King,47.2061282,-121.9899971,2022,0,0,1,0,https://untappd.com/v/griffin-brewing-pilot-house/11184124
 Ridgeline Brewing Company,,1,nano,941 N Callow Ave,Bremerton,98312,Kitsap,47.5709387,-122.6539669,2017,0,0,1,0,https://untappd.com/RidgelineBrewing
 New Maitland Brewing Llc,,1,nano,8903 E Greenbluff Rd,Colbert,99005,Spokane,47.825198,-117.285727,2022,0,0,1,0,https://untappd.com/b/new-maitland-brewing-scottish-stoat/5426770
